@@ -69,3 +69,18 @@ That is, we understand that in order to have a better learning experience, you m
 ## 🤝 Contributing
 
 Feel free to open an issue explaining how you want to contribute before starting out coding and we will help you figuring out the best way to approach it 😊
+
+## Original repository
+
+https://github.com/CodelyTV/refactoring-code-smells
+
+## References
+- A Taxonomy for "Bad Code Smells": https://mmantyla.github.io/BadCodeSmellsTaxonomy.html
+- Books:
+  - Refactoring Improving the Design of Existing Code (Margin Fowler)
+  - Refactoring To Patterns (Joshua Kerievsky)
+  - Working Effectively With Legacy Code (Michael C. Feathers)
+- Refactoring.com website: https://refactoring.com/
+- Catalog for refactoring: https://refactoring.com/catalog/
+- Refactoring.guru: https://refactoring.guru/refactoring/smells
+- QWAN Cards: https://www.youtube.com/watch?v=JQbsxc-BPrU
