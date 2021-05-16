@@ -84,3 +84,5 @@ https://github.com/CodelyTV/refactoring-code-smells
 - Catalog for refactoring: https://refactoring.com/catalog/
 - Refactoring.guru: https://refactoring.guru/refactoring/smells
 - QWAN Cards: https://www.youtube.com/watch?v=JQbsxc-BPrU
+- Evernote's case: https://www.protocol.com/evernote-reboot-ian-small
+- Slides of a talk about migrate one system: https://es.slideshare.net/JavierCane/we-broke-up-with-the-monolith-and-started-dating-eventsourcing-symfonycat
